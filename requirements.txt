@@ -1,2 +1,6 @@
 matplotlib
 seaborn
+sklearn.model_selection 
+sklearn.ensemble
+xgboost
+sklearn.metrics
